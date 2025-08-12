@@ -1,6 +1,8 @@
 这是一个**C++代码实现了一个非常简易消消乐游戏，需要使用了EasyX图形库（graphics.h）**.
 
 **完整实现了消除类游戏的核心功能：方块生成、交换匹配、消除效果、下落补充、步数限制等功能**
+
+[源码下载地址](https://github.com/Britney-jq/Eliminate-the-game/archive/refs/heads/master.zip)
 ## 1.图形编程
 * 通过EasyX库：使用图形库创建窗口、加载/显示图片
 * 使用双缓冲技术：```BeginBatchDraw()```和```EndBatchDraw()```消除闪烁
